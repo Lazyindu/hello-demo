@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+</p>
 <h1 align="center">
   <b> Lazy Princess BOT </b>
 </h1>
@@ -35,7 +37,7 @@ Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up w
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/info.py) for more
+* Check [info.py](https://github.com/Lazyindu/hellodemo/blob/master/info.py) for more
 
 
 ## Deploy
@@ -108,7 +110,6 @@ python3 bot.py
  - Thanks To All Everyone In This Journey
 
 ### Note
-
 
 [Join Main Channel](https://telegram.dog/LazyDevelopers): 
 
