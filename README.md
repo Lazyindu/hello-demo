@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
-</p>
+
 <h1 align="center">
   <b> Lazy Princess BOT </b>
 </h1>
@@ -48,7 +46,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincess">
+<a href="https://heroku.com/deploy?template=https://github.com/Lazyindu/hello-demo">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -57,7 +55,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincess
+git clone https://github.com/Lazyindu/hello-demo
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
