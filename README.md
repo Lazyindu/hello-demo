@@ -109,6 +109,7 @@ python3 bot.py
 
 ### Note
 
+
 [Join Main Channel](https://telegram.dog/LazyDevelopers): 
 
 ## Disclaimer
